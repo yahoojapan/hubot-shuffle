@@ -1,4 +1,5 @@
 # hubot-shuffle
+[![npm version](https://badge.fury.io/js/hubot-shuffle.svg)](https://badge.fury.io/js/hubot-shuffle)
 
 hubot-shuffle add shuffle system.
 
@@ -9,7 +10,7 @@ hubot-shuffle add shuffle system.
 ## Install
 
 ```bash
-npm i --save git+https://github.com/yahoojapan/hubot-shuffle.git
+npm install --save hubot-shuffle
 ```
 
 ## Usage
